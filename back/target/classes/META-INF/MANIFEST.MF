@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Karim_lh
+Build-Jdk: 17.0.1
+Implementation-Title: worldcup
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: worldcup.qt
+Implementation-URL: https://spring.io/projects/spring-boot/worldcup
+Created-By: Maven Integration for Eclipse
+

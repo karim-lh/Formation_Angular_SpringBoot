@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: world.cup.WorldcupApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.008 s - in world.cup.WorldcupApplicationTests
